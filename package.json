@@ -1,0 +1,22 @@
+{
+  "name": "229079_sahastranshu_kushwaha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshuKush1/229079_Sahastranshu_kushwaha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnshuKush1/229079_Sahastranshu_kushwaha/issues"
+  },
+  "homepage": "https://github.com/AnshuKush1/229079_Sahastranshu_kushwaha#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
